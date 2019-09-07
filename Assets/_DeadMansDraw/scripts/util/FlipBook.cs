@@ -4,7 +4,7 @@ using BUtility;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
-public class CardFlip : MonoBehaviour
+public class FlipBook : MonoBehaviour
 {
   public Sprite[] Cards;
   public float Delay;
